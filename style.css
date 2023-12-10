@@ -197,7 +197,7 @@
   .buttoncity {
     background-color: #3d83df;
     color: #fff;
-    border-radius: none;
+    border-radius: 9px;
     font-size: 12px;
   }
   .join-us {
